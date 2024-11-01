@@ -1,7 +1,3 @@
-Voici une version structurée de votre README en suivant les meilleures pratiques :
-
----
-
 # Segmentation d'Images Médicales avec Swin U-Net et Augmentation par GAN
 
 ## Contexte
@@ -89,7 +85,3 @@ Projet réalisé par **Ayyoub Benrguig**.
 ## Remarque
 
 Lien vers les données : [Dataset Google Drive](https://drive.google.com/drive/folders/1bQ-j7mIh4oGpkddxwUbbN2-2vWOJit3b?usp=sharing)
-
----
-
-Ce README structuré fournit toutes les informations essentielles pour comprendre, exécuter, et explorer le projet.
